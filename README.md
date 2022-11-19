@@ -1,0 +1,2 @@
+# cdn
+GALECA’s CDN
